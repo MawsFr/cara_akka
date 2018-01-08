@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 package fr.lille1.cara.tp
 
   object HelloWorld extends App {
@@ -7,4 +5,3 @@ package fr.lille1.cara.tp
       println("I would like to buy a zamburger");
     }
   }
->>>>>>> origin
